@@ -79,6 +79,8 @@ items.forEach((item) => {
 
 [`sample-output.json`](./sample-output.json) contains abbreviated Argentina and Brazil records from September 15, 2026. Key fields include site and currency, price and installments, stock and fulfilment, seller reputation, sibling variations, specifications, ratings, and top review samples.
 
+![Mercado Libre product details output in the Apify Console](./mercado_libre_product_details_results.png)
+
 ## Use cases
 
 - Compare localized offers across Mercado Libre country sites
